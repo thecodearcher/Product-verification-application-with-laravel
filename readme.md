@@ -1,7 +1,7 @@
 ## Building an SMS Based Product Verification Application with Laravel
 In this tutorial, we will teach you how to use [Twilio’s Programmable SMS](https://www.twilio.com/sms) to create an SMS based product verification application using [Laravel](https://laravel.com/). After we’re finished, you will have developed a custom SMS verification system that allows your users to check the authenticity of a product via SMS.
 
-## Prerequisite 
+## Prerequisites 
 
 In order to follow this tutorial, you will need:
 
